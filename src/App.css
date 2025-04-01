@@ -1,0 +1,22 @@
+span{
+    font-size: larger;
+    color: steelblue;
+}
+
+
+.css-1ms7hib-MuiTimelineItem-root::before {
+    
+    
+    flex:0 !important;
+    padding: 2 !important;
+}
+
+
+.css-i6popu-MuiTimeline-root {
+   
+   
+    padding: 0 !important;
+    
+}
+
+    
